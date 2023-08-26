@@ -5,8 +5,8 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-    <title>E Training :: Login System</title>
-    <meta content="Responsive admin theme build on top of Bootstrap 4" name="description" />
+    <title>PPID SMK Negeri 3 Pariaman :: Login System</title>
+    <meta content="PPID SMK Negeri 3 Pariaman" name="description" />
     <meta content="Themesdesign" name="author" />
     <link rel="shortcut icon" href="assets/images/favicon.ico">
 
@@ -36,7 +36,7 @@
                 
                 <!-- <center><img src="<?= base_url('assets/images/logo.png') ?>" width='200'></center> -->
 
-                <h5 class="font-18 text-center">E - Training</h5>
+                <h5 class="font-18 text-center">PPID SMKN 3 PARIAMAN</h5>
 
                 <form class="form-horizontal m-t-30" action="index.html" method="post" id="formLogin">
 
